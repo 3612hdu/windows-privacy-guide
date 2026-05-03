@@ -13,8 +13,8 @@
 | [第一章](README.md) | **概览** — 你的数据去哪了？六类隐私设置总览 |
 | [第二章](02-telemetry-deep-dive.md) | **遥测系统** — 诊断数据的三个级别到底包含什么 |
 | [第三章](03-advertising-tracking.md) | **广告追踪** — 广告 ID、跨应用追踪、量身定制的体验 |
-| [第四章](#) | **位置服务**（撰写中）— GPS、Wi-Fi 定位、IP 定位如何协同 |
-| [第五章](#) | **网络与共享**（撰写中）— Wi-Fi Sense、P2P 更新、云同步 |
+| [第四章](04-location-services.md) | **位置服务** — GPS、Wi-Fi 定位、IP 定位如何协同 |
+| [第五章](05-network-sharing.md) | **网络与共享** — Wi-Fi Sense、P2P 更新、DNS、蓝牙 |
 
 ---
 
